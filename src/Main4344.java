@@ -26,7 +26,6 @@ public class Main4344 {
             System.out.println(cnt);
             System.out.println(b.length);
             System.out.println((cnt/b.length)*100+"%");
-            System.out.printf("%5d",(cnt/b.length)*100);
         }
     }
 }
