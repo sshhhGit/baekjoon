@@ -23,9 +23,6 @@ public class Main4344 {
             }
 
             System.out.println(Arrays.toString(b));
-            System.out.println(cnt);
-            System.out.println(b.length);
-            System.out.println((cnt/b.length)*100+"%");
         }
     }
 }
